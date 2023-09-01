@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+
+  .center{
+    background-color: rgb(217, 231, 243);
+    width: 40vw;
+    border-radius: 25px;
+    padding: 10px;
+  }
+  select{
+    border: none;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 2px;
+    width: 8vw;
+  }
+  h1{
+    font-size: 18px;
+  }
+}
+
